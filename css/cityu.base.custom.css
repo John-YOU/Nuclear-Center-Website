@@ -1,0 +1,27 @@
+
+/*
+    Prevent image overflow
+*/
+div img {
+    max-width: 100%;
+}
+
+/*
+    paragraph justify align
+*/
+p {
+    text-align: justify;
+}
+
+/*
+    Figure
+*/
+figure {
+    margin-bottom: 3rem;
+}
+
+figure > figcaption {
+    margin-top: 1rem;
+    text-align: center;
+    font: 0.8rem arial, sans-serif;: 
+}
